@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: dd1584b91837d804aac3529a4f7eee7f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - monsterHappy: {fileID: 4646426196687264254, guid: 8fc88e867a45140f0bab49f1d4b50e10,
+      type: 3}
+  - mountain: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

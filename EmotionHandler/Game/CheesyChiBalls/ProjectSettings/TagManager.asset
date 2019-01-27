@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - player
+  - chiball
+  - deadzone
+  - scenery
+  - happyEnemy
+  - sadEnemy
+  - angerEnemy
+  - neutralEnemy
+  - heart1
+  - heart2
+  - heart3
+  - StartMusic
+  - SadnessMusic
+  - AngerMusic
+  - FinalLevel
+  - EndingMusic
+  - audiomanager
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Clouds
+    uniqueID: 2631808303
+    locked: 0
+  - name: Mountains
+    uniqueID: 2604400495
+    locked: 0
+  - name: Player
+    uniqueID: 1806377243
+    locked: 0
